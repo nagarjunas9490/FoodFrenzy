@@ -1,7 +1,7 @@
 # FoodFrenzy
 FoodFrenzy is a comprehensive system designed for managing customers, inventory, and orders. It offers secure authentication, role-based access control, and database integration using MySQL. Built with Spring Boot and Thymeleaf, the application provides a seamless experience for admin and staff members.
 
-![Screenshot 2024-10-02 123332](https://github.com/user-attachments/assets/1382d32f-3cbb-40c3-b6b5-9fc55cd5176f)
+<img width="1643" height="872" alt="image" src="https://github.com/user-attachments/assets/c9698101-8244-43a2-9cd9-e22477840d06" />
 
 
 ## Features
@@ -69,7 +69,8 @@ Here is a preview of the FoodFrenzy interface:
 ![Screenshot 2025-05-19 143504](https://github.com/user-attachments/assets/ac26bd92-0fcd-473d-a175-9bc45fdb12ba)
 
 
-![image](https://github.com/user-attachments/assets/3d407958-efbe-449f-b4e1-5b08b9f8a28b)
+<img width="1633" height="828" alt="image" src="https://github.com/user-attachments/assets/f931b83e-8933-4bfb-95de-92e923392f07" />
+
 
 
 ![Screenshot 2024-08-24 194958](https://github.com/user-attachments/assets/c11a4710-69f8-42fd-b9d7-2b5278b2c8a3) 
